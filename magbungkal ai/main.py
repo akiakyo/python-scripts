@@ -5,6 +5,8 @@
 # pip install openai
 # pip install discord
 
+# !ai <your question>
+
 import openai
 import discord
 from discord import Intents
